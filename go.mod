@@ -1,4 +1,4 @@
-module github.com/nano-interactive/fasttext/v2
+module github.com/markbeam/fasttext/v2
 
 go 1.22
 
