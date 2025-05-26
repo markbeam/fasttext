@@ -1,4 +1,4 @@
-module github.com/nano-interactive/go-fasttext
+module github.com/markbeam/go-fasttext
 
 go 1.20
 
